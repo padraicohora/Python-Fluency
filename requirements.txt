@@ -1,0 +1,10 @@
+# Phase 0 - Basic setup
+pytest>=7.4.0
+
+# Phase 2 - Data Stack
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# Optional utilities
+ipython>=8.12.0
