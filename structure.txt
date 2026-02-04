@@ -1,0 +1,30 @@
+python-fluency-drills/
+│
+├── README.md
+├── progress.md
+├── requirements.txt
+├── .gitignore
+│
+├── phase0_environment/
+│   ├── drill_00_hello.py
+│   ├── drill_01_venv_check.py
+│   └── notes.md
+│
+├── phase1_core_python/
+│   ├── week1_syntax/
+│   │   ├── drill_01_strings.py
+│   │   ├── drill_02_numbers.py
+│   │   └── notes.md
+│   │
+│   ├── week2_collections/
+│   ├── week3_functions/
+│   └── week4_classes_files/
+│
+├── phase2_data_stack/
+│   ├── week5_stdlib/
+│   ├── week6_numpy/
+│   ├── week7_pandas/
+│   └── week8_matplotlib_pipeline/
+│
+└── utils/
+    └── helpers.py
